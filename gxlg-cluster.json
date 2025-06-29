@@ -1,0 +1,5 @@
+{
+  "record": "kemuri.life",
+  "ram": 300,
+  "start": "node . {port}"
+}
